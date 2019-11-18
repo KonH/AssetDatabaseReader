@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a1bac0e918134db3941cb2c3ce093a4, type: 3}
+  m_Name: Texture_Asset_4k_2
+  m_EditorClassIdentifier: 
+  Holders:
+  - {fileID: 2800000, guid: fabdd6a42018443fbad955fb6e0c8200, type: 3}

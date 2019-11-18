@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Sprite_4k_1_0.unity
+    guid: f693bbc29df264a3682b9414e5e32439
+  - enabled: 1
+    path: Assets/Scenes/Sprite_4k_2_0.unity
+    guid: c24afe543847449f381467d217f9f509
+  - enabled: 1
+    path: Assets/Scenes/SpriteAssetLink_1.unity
+    guid: 5c3c5af14c6f74729b5df6c0993f2b02
+  - enabled: 1
+    path: Assets/Scenes/SpritePrefab_4k_1_scene.unity
+    guid: 965c0ec9864c74aaea0f80b0a01fe4ae
+  - enabled: 1
+    path: Assets/Scenes/SpritePrefab_4k_2_scene.unity
+    guid: 01cbc023b157b4686ba15fb36bb865c5
+  - enabled: 1
+    path: Assets/Scenes/Texture_1k_1.unity
+    guid: 8203c4713ff074c78bddbe30de1f98fe
+  - enabled: 1
+    path: Assets/Scenes/Texture_2k_1.unity
+    guid: 87a362ed66988464c937352ad56055bf
+  - enabled: 1
+    path: Assets/Scenes/Texture_4k_1.unity
+    guid: e86405409c8b74020af848073369395d
+  - enabled: 1
+    path: Assets/Scenes/TexturePrefab_4k_1.unity
+    guid: a1e3e3edba73d4169a253d96fe5e128e
+  - enabled: 1
+    path: Assets/Scenes/TexturePrefab_4k_2.unity
+    guid: 1aaf37dca77da4a42ad256474d165466
