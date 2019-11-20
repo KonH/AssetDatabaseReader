@@ -1,0 +1,8 @@
+{
+    "name": "Profiler",
+    "references": [
+        "Editor"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}
